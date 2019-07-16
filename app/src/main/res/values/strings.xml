@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">Teacher Portal</string>
+
+    <string-array name="section_list">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="coursecode_list">
+        <item>CSE 112</item>
+        <item>MAT 111</item>
+        <item>ENG 113</item>
+        <item>PHY 113</item>
+        <item>PHY 114</item>
+        <item>GED 111</item>
+        <item>MAT 121</item>
+        <item>CSE 122</item>
+        <item>CSE 123</item>
+        <item>PHY 123</item>
+        <item>PHY 124</item>
+        <item>ENG 123</item>
+        <item>CSE 131</item>
+        <item>CSE 132</item>
+        <item>CSE 133</item>
+        <item>CSE 134</item>
+        <item>CSE 135</item>
+        <item>MAT 131</item>
+        <item>MAT 211</item>
+        <item>CSE 221</item>
+        <item>CSE 222</item>
+        <item>STA 133</item>
+        <item>CSE 224</item>
+        <item>CSE 225</item>
+        <item>CSE 231</item>
+        <item>CSE 232</item>
+        <item>CSE 233</item>
+        <item>CSE 234</item>
+        <item>CSE 235</item>
+        <item>CSE 311</item>
+        <item>CSE 312</item>
+        <item>CSE 313</item>
+        <item>CSE 314</item>
+        <item>GED 321</item>
+        <item>CSE 321</item>
+        <item>CSE 322</item>
+        <item>CSE 323</item>
+        <item>CSE 324</item>
+        <item>ECO 314</item>
+        <item>CSE 331</item>
+        <item>CSE 332</item>
+        <item>CSE 333</item>
+        <item>CSE 334</item>
+        <item>ACT 301</item>
+        <item>CSE 412</item>
+        <item>CSE 413</item>
+        <item>CSE 414</item>
+        <item>CSE 415</item>
+        <item>CSE 417</item>
+        <item>CSE 418</item>
+        <item>CSE 421</item>
+        <item>CSE 422</item>
+        <item>CSE 423</item>
+        <item>CSE 450</item>
+        <item>CSE 499</item>
+        <item>CSE 433</item>
+        <item>CSE 498</item>
+        <item>CSE 499</item>
+    </string-array>
+    <string-array name="coursetitle_list">
+        <item>Computer Fundamentals</item>
+        <item>Mathematics – I: Differential and Integral Calculus</item>
+        <item>Basic Functional English and English Spoken</item>
+        <item>Basic Physics</item>
+        <item>Basic Physics Lab</item>
+        <item>History of Bangladesh and Bangla Language</item>
+        <item>Mathematics – II: Linear Algebra and Coordinate Geometry</item>
+        <item>Programming and Problem Solving</item>
+        <item>Problem Solving Lab</item>
+        <item>Physics - II: Electricity: Magnetism and Modern Physics</item>
+        <item>Physics - II Lab</item>
+        <item>Writing and Comprehension</item>
+        <item>Discrete Mathematics</item>
+        <item>Electrical Circuits</item>
+        <item>Electrical Circuits Lab</item>
+        <item>Data Structures</item>
+        <item>Data Structures Lab</item>
+        <item>Mathematics – III: Ordinary and Partial Differential Equations</item>
+        <item>Mathematics-IV: Engineering Mathematics</item>
+        <item>Digital Electronics</item>
+        <item>Digital Electronics Lab</item>
+        <item>Object Oriented Programming</item>
+        <item>Object Oriented Programming Lab</item>
+        <item>Bangladesh Studies</item>
+        <item>Algorithm</item>
+        <item>Algorithm Lab</item>
+        <item>Statistics and Probability</item>
+        <item>Electronic Devices and Circuits</item>
+        <item>Electronic Devices and Circuits Lab</item>
+        <item>Microprocessor and Assembly Language</item>
+        <item>Microprocessor and Assembly Language Lab</item>
+        <item>Data Communication</item>
+        <item>Numerical Methods</item>
+        <item>Introduction to Bio-Informatics</item>
+        <item>Database Management System</item>
+        <item>Database Management System Lab</item>
+        <item>Computer Network</item>
+        <item>Computer Network Lab</item>
+        <item>Art of Living</item>
+        <item>System Analysis and Design</item>
+        <item>Computer Architecture and Organization</item>
+        <item>Operating System</item>
+        <item>Operating System Lab</item>
+        <item>Economics</item>
+        <item>Compiler Design</item>
+        <item>Compiler Design lab</item>
+        <item>Software Engineering</item>
+        <item>Wireless Programming</item>
+        <item>Financial and Managerial Accounting</item>
+        <item>Artificial Intelligence</item>
+        <item>Artificial Intelligence Lab</item>
+        <item>Simulation and Modeling</item>
+        <item>Simulation and Modeling Lab</item>
+        <item>Web Engineering</item>
+        <item>Web Engineering Lab</item>
+        <item>Computer Graphics</item>
+        <item>Computer Graphics Lab</item>
+        <item>Embedded System</item>
+        <item>Data Mining</item>
+        <item>Project / Internship (Phase I)</item>
+        <item>Digital Image Processing</item>
+        <item>Social and Professional Issues in Computing</item>
+        <item>Project / Internship (Phase II)</item>
+    </string-array>
+    <string-array name="semester_list">
+        <item>Spring 2019</item>
+        <item>Summer 2019</item>
+        <item>Fall 2019</item>
+        <item>Spring 2020</item>
+        <item>Summer 2020</item>
+        <item>Fall 2020</item>
+    </string-array>
+</resources>
